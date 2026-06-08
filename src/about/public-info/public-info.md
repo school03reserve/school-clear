@@ -36,7 +36,7 @@ blocks:
         icon: 🏛️
         description: Організаційна структура (інформація готується)
       - title: Ліцензований обсяг та фактична кількість осіб
-        url: https://drive.google.com/file/d/10atKNPViiQqSnHW5cXztR7Fr3CB5zudV/view?usp=sharing
+        url: https://drive.google.com/drive/folders/1TQfIb_nb4rtFS3y8agpumRTyH8JCGy7f?usp=sharing
         icon: 📈
         description: Дані про контингент учнів
       - title: Умови доступності закладу освіти для навчання осіб з ООП
