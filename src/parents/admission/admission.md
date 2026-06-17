@@ -19,6 +19,9 @@ blocks:
       - title: ТОВ «Українська дистанційна школа»
         url: https://drive.google.com/file/d/16A6XW_EK2cfvEibg8qug4UNFgMzxCMW7/view?usp=sharing
         icon: 🎒
+      - icon: 📄
+        title: Інформація
+        url: https://drive.google.com/drive/folders/1gkviysBwhu5PeU_Czha7yk99sS71U_le?usp=sharing
   - type: styled_heading
     text: 🎒 Школа майбутніх першокласників
     level: h2
