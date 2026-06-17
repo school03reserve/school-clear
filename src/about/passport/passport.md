@@ -32,7 +32,14 @@ blocks:
           <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600">Кількість класів</td><td style="padding:10px 16px">16</td></tr>
           <tr><td style="padding:10px 16px; font-weight:600">Кількість приміщень</td><td style="padding:10px 16px">22</td></tr>
           <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600">Режим роботи</td><td style="padding:10px 16px">Понеділок – П'ятниця</td></tr>\
-       <tr><td style="padding:10px 16px; font-weight:600">Детальна інформація</td><td style="padding:10px 16px"> <https://drive.google.com/file/d/1WeOEGa96CPTCzMWNA9HeCZQ7MMct1qww/view?usp=sharing></td></tr>
+       <tr>
+        <td style="padding:10px 16px; font-weight:600">Детальна інформація</td>
+        <td style="padding:10px 16px">
+          <a href="https://drive.google.com/file/d/1WeOEGa96CPTCzMWNA9HeCZQ7MMct1qww/preview" target="_blank">
+            Переглянути документ
+          </a>
+        </td>
+      </tr>
         </tbody>
       </table>
   - type: document_links
