@@ -71,7 +71,7 @@ blocks:
       - title: Наявність вакантних посад
         url: https://drive.google.com/file/d/1YdOaFv7_7ZZ0tFWpwnvlfHTYU-AbvQNU/view?usp=sharing
         icon: 💼
-        description: ""
+        description: Наявність вакантних посад
       - title: Критерії оцінювання
         url: /about/assessment/
         icon: ✅
