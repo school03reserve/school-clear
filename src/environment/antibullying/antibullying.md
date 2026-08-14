@@ -26,9 +26,6 @@ blocks:
       - title: Закон України про деякі питання реагування на випадки булінгу
         url: https://docs.google.com/document/d/1r01MMC7Vs7kNx2DJogBIa3eH5SkSLx-HXI0sxVsuk3Q/edit?usp=sharing
         icon: ⚖️
-      - title: Наказ про антибулінгову програму
-        url: https://drive.google.com/file/d/13pzYeeeEBqmucAYdvePuoSMBS25jxSt2/view?usp=sharing
-        icon: 📄
       - title: План заходів щодо протидії булінгу 2025–2026
         url: https://drive.google.com/file/d/1TkClDKMdajb0K-Q-3hittVgTq8QHpj1L/view?usp=sharing
         icon: 📋
