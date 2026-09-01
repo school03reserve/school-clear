@@ -24,7 +24,7 @@ blocks:
         icon: 🚀
         description: Стратегічні цілі та план розвитку
       - title: Освітня програма
-        url: https://drive.google.com/file/d/1f_5dtzZRPbXzF6Z6VS3kI0DmjyzNyuab/view?usp=sharing
+        url: https://drive.google.com/file/d/18vNuSVRgNV_HO4OAeBLNTJQGcpKx2foL/view?usp=sharing
         icon: 📚
         description: Основна освітня програма закладу
       - title: Мова освітнього процесу
