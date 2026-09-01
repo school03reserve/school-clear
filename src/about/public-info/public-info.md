@@ -48,7 +48,7 @@ blocks:
         icon: 📉
         description: Аналіз показників якості навчання
       - title: Річний звіт про діяльність закладу освіти
-        url: https://drive.google.com/file/d/1u1gf_dz4nDhka0LYhb_HlyYo9heV4j2f/view?usp=sharing
+        url: https://drive.google.com/file/d/1TfChClovxW77jn9pRUxLLIZysZQFi0_R/view?usp=sharing
         icon: 📝
         description: Комплексний звіт про роботу за рік
       - title: Матеріально-технічне забезпечення закладу освіти
