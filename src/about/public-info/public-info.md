@@ -81,4 +81,9 @@ blocks:
         url: https://drive.google.com/drive/folders/1CispEDu53vqxhbltCAKEiBjeXr421NES?usp=sharing
         icon: 📁
         description: Додаткові матеріали
+      - icon: 📄
+        title: Порядок реагування  та процедури поведінки під час надзвичайних ситуацій
+        url: https://drive.google.com/file/d/1HVmNmvmRv-dx1AkQDyl28GRZ_wA8jvyc/view?usp=sharing
+        description: Порядок реагування  та процедури поведінки під час надзвичайних
+          ситуацій
 ---
