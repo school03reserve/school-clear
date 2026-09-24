@@ -13,33 +13,99 @@ blocks:
     body: >-
       <table style="width:100%; border-collapse: collapse; font-size: 1rem;">
         <tbody>
-          <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600; width:45%">Повна назва</td><td style="padding:10px 16px">Гімназія «ПРОСВІТ» Лубенської міської ради Лубенського району Полтавської області</td></tr>
-          <tr><td style="padding:10px 16px; font-weight:600">Скорочена назва</td><td style="padding:10px 16px">Гімназія «ПРОСВІТ» ЛМР</td></tr>
-          <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600">Код ЄДРПОУ</td><td style="padding:10px 16px">25165848</td></tr>
-          <tr><td style="padding:10px 16px; font-weight:600">№ у системі МОН</td><td style="padding:10px 16px">20540</td></tr>
-          <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600">Тип закладу</td><td style="padding:10px 16px">Гімназія з початковою школою (I–II ступінь)</td></tr>
-          <tr><td style="padding:10px 16px; font-weight:600">Форма власності</td><td style="padding:10px 16px">Комунальна</td></tr>
-          <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600">Тип місцевості</td><td style="padding:10px 16px">Міська</td></tr>
-          <tr><td style="padding:10px 16px; font-weight:600">Поштова адреса</td><td style="padding:10px 16px">вул. Олександрівська, 8/2, м. Лубни, Лубенський р-н, Полтавська обл., 37500</td></tr>
-          <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600">Телефон</td><td style="padding:10px 16px">(05361) 6-18-52</td></tr>
-          <tr><td style="padding:10px 16px; font-weight:600">Вебсайт</td><td style="padding:10px 16px"><a href="http://www.prosvit.co.ua/" target="_blank">www.prosvit.co.ua</a></td></tr>
-          <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600">Мова навчання</td><td style="padding:10px 16px">Українська</td></tr>
-          <tr><td style="padding:10px 16px; font-weight:600">Директор</td><td style="padding:10px 16px">Кобилянська Тамара Василівна</td></tr>
-          <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600">Засновник / Бюджет</td><td style="padding:10px 16px">Лубенська міська територіальна громада</td></tr>
-          <tr><td style="padding:10px 16px; font-weight:600">Спроможність закладу</td><td style="padding:10px 16px">450 учнів</td></tr>
-          <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600">Кількість учнів</td><td style="padding:10px 16px">338</td></tr>
-          <tr><td style="padding:10px 16px; font-weight:600">Кількість персоналу</td><td style="padding:10px 16px">50</td></tr>
-          <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600">Кількість класів</td><td style="padding:10px 16px">16</td></tr>
-          <tr><td style="padding:10px 16px; font-weight:600">Кількість приміщень</td><td style="padding:10px 16px">22</td></tr>
-          <tr style="background:#f0f9ff"><td style="padding:10px 16px; font-weight:600">Режим роботи</td><td style="padding:10px 16px">Понеділок – П'ятниця</td></tr>\
-       <tr>
-        <td style="padding:10px 16px; font-weight:600">Детальна інформація</td>
-        <td style="padding:10px 16px">
-          <a href="https://drive.google.com/file/d/1WeOEGa96CPTCzMWNA9HeCZQ7MMct1qww/preview" target="_blank">
-            Переглянути документ
-          </a>
-        </td>
-      </tr>
+          <tr style="background:#f0f9ff">
+            <td style="padding:10px 16px; font-weight:600; width:35%">Назва документа</td>
+            <td style="padding:10px 16px">Паспорт закладу (01.09.2026р.)</td>
+          </tr>
+          <tr>
+            <td style="padding:10px 16px; font-weight:600">Повна назва</td>
+            <td style="padding:10px 16px">Гімназія «ПРОСВІТ» Лубенської міської ради Лубенського району Полтавської області</td>
+          </tr>
+          <tr style="background:#f0f9ff">
+            <td style="padding:10px 16px; font-weight:600">Рік заснування</td>
+            <td style="padding:10px 16px">1944</td>
+          </tr>
+          <tr>
+            <td style="padding:10px 16px; font-weight:600">Юридична адреса</td>
+            <td style="padding:10px 16px">Україна, 37500, Полтавська область, Лубенський район, м. Лубни, вул. Олександрівська, 8/2</td>
+          </tr>
+          <tr style="background:#f0f9ff">
+            <td style="padding:10px 16px; font-weight:600">Електронна пошта</td>
+            <td style="padding:10px 16px"><a href="mailto:school3_lubny@ukr.net">school3_lubny@ukr.net</a></td>
+          </tr>
+          <tr>
+            <td style="padding:10px 16px; font-weight:600">Керівник закладу</td>
+            <td style="padding:10px 16px">Кобилянська Тамара Василівна</td>
+          </tr>
+          <tr style="background:#f0f9ff">
+            <td style="padding:10px 16px; font-weight:600">Склад учнівського колективу</td>
+            <td style="padding:10px 16px">
+              <b>338 учнів</b> (сер. наповнюваність 21):<br>
+              • Школа І ступеню – 166 учнів (8 класів-комплектів)<br>
+              • Школа ІІ ступеню – 172 учнів (8 класів-комплектів)
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:10px 16px; font-weight:600">Кількість персоналу</td>
+            <td style="padding:10px 16px">
+              • Педагогічні працівники – 31 (в т.ч. 1 відп. по дог. за дит.)<br>
+              • Обслуговуючий персонал – 22 (в т.ч. 2 сумісники)
+            </td>
+          </tr>
+          <tr style="background:#f0f9ff">
+            <td style="padding:10px 16px; font-weight:600">Якісний склад педколективу</td>
+            <td style="padding:10px 16px">
+              Спеціаліст вищої категорії – 25; спеціаліст І категорії – 3; спеціаліст ІІ категорії – 1; спеціаліст – 2; відмінник освіти України – 2; «учитель-методист» – 13; «старший учитель» – 8; нагородний знак «Василь Сухомлинський» – 2.
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:10px 16px; font-weight:600">Технічні дані (Площі)</td>
+            <td style="padding:10px 16px">
+              • площа земельної ділянки – 6713 м²<br>
+              • під забудовою – 2316 м²<br>
+              • під будівлею школи – 1165 м²<br>
+              • під господарськими/допоміжними будівлями – 65,1 м²<br>
+              • І поверх – 913,6 м² (коридор – 217,2 м²)<br>
+              • ІІ поверх – 763,2 м² (коридор – 160,6 м²)<br>
+              • Лабораторний комплекс – 264,3 м²
+            </td>
+          </tr>
+          <tr style="background:#f0f9ff">
+            <td style="padding:10px 16px; font-weight:600">Навчальні кабінети та приміщення</td>
+            <td style="padding:10px 16px">
+              <details>
+                <summary style="cursor: pointer; font-weight: 600; color: #0056b3;">Натисніть, щоб переглянути детальний список</summary>
+                <div style="margin-top: 8px;">
+                  <b>Навчальні кабінети:</b> хімії і біології (№106), географії (№107), укр. мови і літ. (№108), правознавства (№109), зарубіжної літ. (№110), технологій (№113), історії (№114), математики і фізики (№115), англійської мови (№201), БЖД (№204), мистецтва (№205), інформатики (№210, №211).<br>
+                  <b>Кімнати-музеї:</b> лікарських рослин (№202), народної іграшки (№203), бджільництва (№206), вишивки (№207), писанки (№208), хліба (№209), декоративно-ужиткового мистецтва і побуту (№104).<br>
+                  <b>Інші кімнати:</b> Ресурсна кімната (№111), ГПД (№112), кабінети адміністрації та персоналу (завгосп, психолог, педагог-організатор, заступники директора, інспектор ССОБ), медпункт (№100), учительська (№103), бухгалтерія, методичний кабінет.
+                </div>
+              </details>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:10px 16px; font-weight:600">Спортивні та інші корпуси</td>
+            <td style="padding:10px 16px">
+              • Спортивний зал – 81,4 м²<br>
+              • Воєнно-спортивний комплекс – 199,1 м² (в т.ч. бібліотека – 49,0 м², актова зала/електронний тир – 133,2 м²)<br>
+              • Будівля майстерні – 225,6 м² (в т.ч. слюсарний цех – 72,2 м²)<br>
+              • Їдальня – 202,9 м² (обідня зала – 111,1 м²)
+            </td>
+          </tr>
+          <tr style="background:#f0f9ff">
+            <td style="padding:10px 16px; font-weight:600">Безпека</td>
+            <td style="padding:10px 16px">Найпростіше укриття (підвал) – 184,9 м²</td>
+          </tr>
+          <tr>
+            <td style="padding:10px 16px; font-weight:600">Комунікації</td>
+            <td style="padding:10px 16px">Водопостачання – централізоване;<br>Тепло – тепловий носій з газової генераторної.</td>
+          </tr>
+          <tr style="background:#f0f9ff">
+            <td style="padding:10px 16px; font-weight:600">Детальна інформація</td>
+            <td style="padding:10px 16px">
+              <a href="https://drive.google.com/file/d/1JvVXNda6XozDWNmyjcOrI41fJBiiwA2O/view?usp=sharing" target="_blank">Переглянути документ (PDF)</a>
+            </td>
+          </tr>
         </tbody>
       </table>
   - type: document_links
@@ -54,7 +120,7 @@ blocks:
         icon: 🎓
         description: Офіційна ліцензія МОН України
       - title: Освітня програма
-        url: https://drive.google.com/file/d/1f_5dtzZRPbXzF6Z6VS3kI0DmjyzNyuab/view?usp=sharing
+        url: https://drive.google.com/file/d/18vNuSVRgNV_HO4OAeBLNTJQGcpKx2foL/view?usp=sharing
         icon: 📚
         description: Основна освітня програма закладу
       - title: Стратегія розвитку
