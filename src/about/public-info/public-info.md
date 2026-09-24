@@ -20,7 +20,7 @@ blocks:
         icon: 🗺️
         description: Мікрорайон та територія закладу
       - title: Стратегія розвитку
-        url: https://drive.google.com/drive/folders/1ekmSs25UJjB2h7KAj1rN6O5tOy486T9J?usp=sharing
+        url: https://drive.google.com/file/d/1OTa_6Tj2pZ5NmX8p6Ip3YDUybwDxdCPm/view?usp=sharing
         icon: 🚀
         description: Стратегічні цілі та план розвитку
       - title: Освітня програма
@@ -83,7 +83,7 @@ blocks:
         description: Додаткові матеріали
       - icon: 📄
         title: Порядок реагування  та процедури поведінки під час надзвичайних ситуацій
-        url: https://drive.google.com/file/d/1HVmNmvmRv-dx1AkQDyl28GRZ_wA8jvyc/view?usp=sharing
+        url: https://drive.google.com/file/d/1A2rAdEaceUqZBhSUL_6_BmoAqteRXzL8/view?usp=sharing
         description: Порядок реагування  та процедури поведінки під час надзвичайних
           ситуацій
 ---
