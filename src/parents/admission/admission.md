@@ -31,7 +31,7 @@ blocks:
     category_title: Інформація для вступу
     documents:
       - title: Матеріали для майбутніх першокласників
-        url: https://drive.google.com/drive/folders/1KIrpJUXB_PTOEscnWLamoYsXeBxNCswV?usp=sharing
+        url: https://drive.google.com/drive/folders/1CSve3L6HdSqJs-GycikSmDAVttvaS3NC?usp=sharing
         icon: 👶
         description: Натисніть тут для перегляду інформації про підготовку до школи.
   - type: styled_heading
