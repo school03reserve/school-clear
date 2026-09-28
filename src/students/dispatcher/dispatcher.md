@@ -101,11 +101,11 @@ blocks:
     category_title: Розклад занять
     documents:
       - title: Розклад уроків — початкова школа (1–4 кл.)
-        url: "#"
+        url: https://drive.google.com/file/d/1e-If7ZZ0IeXfYhVtty_pj3qgdApzr4Te/view?usp=sharing
         icon: 📅
         description: Актуальний розклад (оновлюється щосеместру)
       - title: Розклад уроків — гімназія (5–9 кл.)
-        url: "#"
+        url: https://drive.google.com/file/d/1e-If7ZZ0IeXfYhVtty_pj3qgdApzr4Te/view?usp=sharing
         icon: 📅
         description: Актуальний розклад
       - title: Розклад гурткової роботи
