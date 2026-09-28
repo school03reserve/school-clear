@@ -19,6 +19,7 @@ blocks:
     text: 📋 Основні напрями управління
     level: h3
     align: left
+    color: green
   - type: simple_text
     body: >
       <ul style="list-style:none; padding:0;">
@@ -32,7 +33,7 @@ blocks:
     category_title: 📋 Документи та накази
     documents:
       - title: Річний план роботи гімназії
-        url: "#"
+        url: https://drive.google.com/file/d/1TfiM6uXqdHOFZBWKNJJyx70MWCbgf40y/view?usp=sharing
         icon: 📅
         description: Затверджений план роботи на поточний рік
       - title: Протоколи педагогічних рад
@@ -45,5 +46,5 @@ blocks:
         description: Видані накази (оновлюється)
       - icon: 📄
         title: Орієнтовна структура 2026/2027 навчального року
-        url: https://drive.google.com/file/d/1l6KNcC5HgwR7fBb0kOArq59dIkid8Evy/view?usp=sharing
+        url: https://drive.google.com/file/d/15emXdQWhjQFcOJR26aqiX6lcI6zGuWuV/view?usp=sharing
 ---
