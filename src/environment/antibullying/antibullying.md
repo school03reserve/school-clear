@@ -26,11 +26,11 @@ blocks:
       - title: Закон України про деякі питання реагування на випадки булінгу
         url: https://docs.google.com/document/d/1r01MMC7Vs7kNx2DJogBIa3eH5SkSLx-HXI0sxVsuk3Q/edit?usp=sharing
         icon: ⚖️
-      - title: План заходів щодо протидії булінгу 2025–2026
-        url: https://drive.google.com/file/d/1TkClDKMdajb0K-Q-3hittVgTq8QHpj1L/view?usp=sharing
+      - title: План заходів щодо протидії булінгу 2026–2027
+        url: "#"
         icon: 📋
       - title: Наказ про склад комісії з розгляду випадку булінгу
-        url: https://drive.google.com/file/d/1I5NkwvGJcrr_UiYGxKOmEsfyXUoRkXuP/view?usp=sharing
+        url: https://drive.google.com/file/d/1LFzk5WbDHpvNff-QeJz32gq0Oh9ZaDSo/view?usp=sharing
         icon: 👥
   - type: document_links
     category_title: 🆘 Алгоритми дій
