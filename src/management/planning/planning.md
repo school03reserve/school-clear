@@ -5,33 +5,33 @@ description: Планування освітньої та управлінськ
 permalink: /management/planning/
 blocks:
   - type: styled_heading
-    text: "📅 Планування роботи закладу"
-    level: "h2"
-    align: "center"
-    color: "blue"
-
+    text: 📅 Планування роботи закладу
+    level: h2
+    align: center
+    color: blue
   - type: alert_block
     variant: info
-    content: |
-      Ефективне планування роботи гімназії є основою для досягнення стратегічних цілей та забезпечення якісного освітнього процесу. Усі плани розробляються за участі педагогічного колективу та затверджуються педагогічною радою.
-
+    content: >
+      Ефективне планування роботи гімназії є основою для досягнення стратегічних
+      цілей та забезпечення якісного освітнього процесу. Усі плани розробляються
+      за участі педагогічного колективу та затверджуються педагогічною радою.
   - type: document_links
-    category_title: "📋 Плани та програми"
+    category_title: 📋 Плани та програми
     documents:
       - title: Річний план роботи гімназії
-        url: "#"
-        icon: "📅"
+        url: https://drive.google.com/file/d/1TfiM6uXqdHOFZBWKNJJyx70MWCbgf40y/view?usp=sharing
+        icon: 📅
         description: Комплексний план роботи на навчальний рік
       - title: Стратегія розвитку гімназії
-        url: "https://drive.google.com/drive/folders/1ekmSs25UJjB2h7KAj1rN6O5tOy486T9J?usp=sharing"
-        icon: "🚀"
+        url: https://drive.google.com/file/d/1OTa_6Tj2pZ5NmX8p6Ip3YDUybwDxdCPm/view?usp=sharing
+        icon: 🚀
         description: Стратегічні цілі та план розвитку
       - title: Освітня програма
-        url: "https://drive.google.com/file/d/1f_5dtzZRPbXzF6Z6VS3kI0DmjyzNyuab/view?usp=sharing"
-        icon: "📚"
+        url: https://drive.google.com/file/d/18vNuSVRgNV_HO4OAeBLNTJQGcpKx2foL/view?usp=sharing
+        icon: 📚
         description: Освітня програма закладу
       - title: Графік роботи адміністрації
-        url: "#"
-        icon: "🕐"
+        url: https://drive.google.com/file/d/1UenY0yRmmXBtlAWLLKkfhFfvm-_lQtmL/view?usp=sharing
+        icon: 🕐
         description: Прийомні години адміністрації
 ---
