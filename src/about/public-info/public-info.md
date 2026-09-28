@@ -40,7 +40,7 @@ blocks:
         icon: 📈
         description: Дані про контингент учнів
       - title: Умови доступності закладу освіти для навчання осіб з ООП
-        url: https://drive.google.com/drive/folders/1i4jVOyxj_v14A0V5vLrYCn64aDAwuwr1?usp=sharing
+        url: https://drive.google.com/drive/folders/1hcw0FmRyTKb_7dIo92ZwcWRCbASPrflt?usp=sharing
         icon: ♿
         description: Інклюзивність та доступність
       - title: Результати моніторингу якості освіти
