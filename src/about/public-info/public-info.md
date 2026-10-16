@@ -52,7 +52,7 @@ blocks:
         icon: 📝
         description: Комплексний звіт про роботу за рік
       - title: Матеріально-технічне забезпечення закладу освіти
-        url: https://drive.google.com/drive/folders/17PS-9-AtlifXfa3UujxTqX6_ORSdTLUf?usp=sharing
+        url: https://drive.google.com/file/d/1ffsVJpEbYHGg-p3-hIybL_beo_pqhUqV/view?usp=sharing
         icon: 🔧
         description: Обладнання та матеріальна база
       - title: Штатний розпис
