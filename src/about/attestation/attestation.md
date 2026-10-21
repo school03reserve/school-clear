@@ -25,6 +25,7 @@ blocks:
         </p>
 
 
+
         
       </div>
   - type: alert_block
@@ -89,32 +90,30 @@ blocks:
         date: 01.04.2027 р.
   - type: alert_block
     variant: info
-    content: '<div style="font-family: Arial, sans-serif; color: #333; max-width:
-      800px; padding: 24px; border: 1px solid #e5e7eb; background-color:
-      #f9fafb; border-radius: 8px; line-height: 1.6;"><h3 style="margin-top: 0;
-      margin-bottom: 8px; text-align: center; text-transform: uppercase;
-      font-size: 1.3rem; letter-spacing: 1px;">Витяг</h3><p style="text-align:
-      center; font-weight: 600; margin-top: 0; margin-bottom: 16px;">з протоколу
-      №2 засідання атестаційної комісії<br>Гімназії «ПРОСВІТ» Лубенської міської
-      ради Лубенського району Полтавської області</p><p style="text-align:
-      right; font-weight: 600; margin-bottom: 24px; padding-bottom: 12px;
-      border-bottom: 2px solid #d1d5db;">«20» жовтня 2026 року</p><p
-      style="font-weight: 700; font-size: 1.1rem; text-transform: uppercase;
-      margin-bottom: 16px; color: #111827;">Вирішили:</p><div
-      style="padding-left: 16px; border-left: 3px solid #0056b3;"><p
-      style="margin-top: 0; margin-bottom: 8px;"><strong style="color:
-      #0056b3;">1.</strong> Затвердити список педагогічних працівників, які
-      підлягають черговій атестації в поточному навчальному році:</p><ul
-      style="margin-top: 0; margin-bottom: 16px; padding-left:
-      20px;"><li>Рєпнікова Алла Миколаївна - учитель біології;</li><li>Маркович
-      Наталія Георгіївна - учитель української мови і
-      літератури;</li><li>Яриновська Наталія Євгеніївна - учитель початкових
+    content: '<div style="font-family: Arial, sans-serif; color: #333; width: 100%;
+      box-sizing: border-box; padding: 24px; border: 1px solid #e5e7eb;
+      background-color: #f9fafb; border-radius: 8px; line-height: 1.6;"><h3
+      style="margin-top: 0; margin-bottom: 8px; text-align: center;
+      text-transform: uppercase; font-size: 1.3rem; letter-spacing:
+      1px;">Витяг</h3><p style="text-align: center; font-weight: 600;
+      margin-top: 0; margin-bottom: 16px;">з протоколу №2 засідання атестаційної
+      комісії<br>Гімназії «ПРОСВІТ» Лубенської міської ради Лубенського району
+      Полтавської області</p><p style="text-align: right; font-weight: 600;
+      margin-bottom: 24px; padding-bottom: 12px; border-bottom: 2px solid
+      #d1d5db;">«20» жовтня 2026 року</p><p style="font-weight: 700; font-size:
+      1.1rem; text-transform: uppercase; margin-bottom: 16px; color:
+      #111827;">Вирішили:</p><div style="padding-left: 16px; border-left: 3px
+      solid #0056b3;"><p style="margin-top: 0; margin-bottom: 8px;"><strong
+      style="color: #0056b3;">1.</strong> Затвердити список педагогічних
+      працівників, які підлягають черговій атестації в поточному навчальному
+      році:</p><ul style="margin-top: 0; margin-bottom: 16px; padding-left:
+      20px;"><li>Рєпнікова Алла Миколаївна - учитель
+      біології;</li><li>Яриновська Наталія Євгеніївна - учитель початкових
       класів;</li><li>Любарець Людмила Миколаївна - учитель початкових
-      класів;</li><li>Мартиненко Ганна Василівна - учитель початкових
       класів;</li><li>Семітко Таміла Олексіївна - учитель початкових
       класів;</li><li>Бурега Ірина Олексіївна - учитель початкових
-      класів;</li><li>Семенович Наталія Сергіївна –
-      педагог-організатор.</li></ul><p style="margin-top: 0; margin-bottom:
+      класів;</li><li>Медведева Людмила Сергіївна – учитель
+      математики.</li></ul><p style="margin-top: 0; margin-bottom:
       16px;"><strong style="color: #0056b3;">2.1.</strong> Затвердити строки
       проведення чергової атестації педагогічних працівників з 20.10.2026р. по
       01.04.2027р.</p><p style="margin-top: 0; margin-bottom: 8px;"><strong
