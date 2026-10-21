@@ -26,6 +26,7 @@ blocks:
 
 
 
+
         
       </div>
   - type: alert_block
@@ -138,5 +139,11 @@ blocks:
       формі): <strong>school3-lubny@ukr.net</strong></p></div></div>'
   - type: document_links
     category_title: 📋 Протоколи та документи
-    documents: []
+    documents:
+      - icon: 📄
+        title: Протокол №1
+        url: https://drive.google.com/file/d/1bb9ci1gnuFZUIjccc9iu1OWLUYbnWPBe/view?usp=sharing
+      - icon: 📄
+        title: Протокол №2
+        url: https://drive.google.com/file/d/1jT3BuUJcvG8akFFy-mypp8IRuWuInVdq/view?usp=sharing
 ---
