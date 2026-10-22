@@ -56,7 +56,7 @@ blocks:
         icon: 🔧
         description: Обладнання та матеріальна база
       - title: Штатний розпис
-        url: https://drive.google.com/drive/folders/1dRW153XUu62yZZ82ZXHmqeBU2j8IBUNy?usp=sharing
+        url: https://drive.google.com/drive/folders/1Pw7T97BDtgeLUmpSf2xwtX4DGtBlNfqL?usp=sharing
         icon: 📊
         description: Штатний розпис закладу
       - title: Кадровий склад закладу
@@ -65,7 +65,7 @@ blocks:
         description: Інформація про педагогічний колектив
       - title: Кошторис та фінансовий звіт про надходження та використання всіх
           отриманих коштів
-        url: https://drive.google.com/drive/folders/1T0Ld0ML_VAJI7kt5oIsabpcpQxHqpyZJ?usp=sharing
+        url: https://drive.google.com/drive/folders/1YH-po_6UEJ_KtrWmJ8HrUOtmyrXKFHD8?usp=sharing
         icon: 💰
         description: Фінансова звітність та використання коштів
       - title: Наявність вакантних посад
