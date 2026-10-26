@@ -69,13 +69,13 @@ blocks:
         icon: 💰
         description: Фінансова звітність та використання коштів
       - title: Наявність вакантних посад
-        url: https://drive.google.com/file/d/1YdOaFv7_7ZZ0tFWpwnvlfHTYU-AbvQNU/view?usp=sharing
+        url: /about/
         icon: 💼
         description: Наявність вакантних посад
       - title: Критерії оцінювання
         url: /about/assessment/
         icon: ✅
-        description: Рекомендації та критерії (Наказ МОН № 1093)
+        description: Рекомендації та критерії (Наказ МОН № 1427 від 14.08.2026)
       - title: Інша інформація що оприлюднюється за рішенням закладу освіти або на
           вимогу законодавства
         url: https://drive.google.com/drive/folders/1CispEDu53vqxhbltCAKEiBjeXr421NES?usp=sharing
