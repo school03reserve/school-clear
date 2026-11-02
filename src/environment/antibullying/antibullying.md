@@ -20,31 +20,22 @@ blocks:
     documents:
       - title: Положення  про запобігання та протидію насильству  та жорстокому
           поводженню з дітьми у Гімназії «ПРОСВІТ» ЛМР
-        url: https://drive.google.com/file/d/1rN6nNo5LwQNItYEXivs8LErHuqKKnebk/view?usp=sharing
+        url: https://drive.google.com/file/d/1d2PP0ggww3onFX5iZryNHXS-6rSzC10R/view?usp=sharing
         icon: 🛡️
         description: Основний документ антибулінгової програми
       - title: Закон України про деякі питання реагування на випадки булінгу
         url: https://docs.google.com/document/d/1r01MMC7Vs7kNx2DJogBIa3eH5SkSLx-HXI0sxVsuk3Q/edit?usp=sharing
         icon: ⚖️
       - title: План заходів щодо протидії булінгу 2026–2027
-        url: "#"
+        url: https://drive.google.com/file/d/1uZxeAa7IAlonMKUQWwI2FpNzrlgpXVDW/view?usp=sharing
         icon: 📋
       - title: Наказ про склад комісії з розгляду випадку булінгу
-        url: https://drive.google.com/file/d/1LFzk5WbDHpvNff-QeJz32gq0Oh9ZaDSo/view?usp=sharing
+        url: https://drive.google.com/file/d/1yT1HbIGgkFQSV09yJQ5FpPXcDNO8pqdQ/view?usp=sharing
         icon: 👥
   - type: document_links
     category_title: 🆘 Алгоритми дій
     documents:
-      - title: Алгоритм дій при булінгу
-        url: https://drive.google.com/file/d/1jrSKw3UNAbvUPlEpuO6C51twevQm8dT3/view?usp=sharing
-        icon: 🚨
-      - title: Порядок реагування на доведені випадки булінгу
-        url: https://docs.google.com/document/d/1Jm2hbNiHFS1TbXC4wCoOrfxbx9KIofxaWhay9VqMvnE/edit?usp=sharing
-        icon: 📝
-      - title: Порядок подання та розгляду заяв
-        url: https://drive.google.com/file/d/1DGcsSmu9K5ppvHbt_e7pXJQAJinIvNHM/view?usp=sharing
-        icon: 📩
       - title: Гарячі лінії психологічної допомоги
-        url: https://docs.google.com/document/d/1oEYJUY_sf_-OmYHokaIn764SgUOXi_7_W_NyurEhnRY/edit?usp=sharing
+        url: https://drive.google.com/file/d/14iR45vu8LajR1noOcnQMhVAJfi8JsBwj/view?usp=sharing
         icon: 📞
 ---
