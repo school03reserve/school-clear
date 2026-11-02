@@ -32,6 +32,10 @@ blocks:
       - title: Наказ про склад комісії з розгляду випадку булінгу
         url: https://drive.google.com/file/d/1yT1HbIGgkFQSV09yJQ5FpPXcDNO8pqdQ/view?usp=sharing
         icon: 👥
+      - icon: 📄
+        url: https://drive.google.com/file/d/1KCg74pfKwV29mT87xBjg7PT11xukCbY_/view?usp=sharing
+        title: Наказ № 961 Про внесення змін до Порядку реагування на випадки булінгу… -
+          від 18.06.2026
   - type: document_links
     category_title: 🆘 Алгоритми дій
     documents:
